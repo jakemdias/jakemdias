@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xwing114 aka Jake Dias
+- 👋 Hi, I’m Jake Dias
 - 👀 I’m interested in Web and Graphic Design
 - 🌱 I’m currently expanding my knowledge in HTML, CSS and JavaScript
 - 📫 How to reach me @jakediasweb@gmail.com or on jakedias.com
